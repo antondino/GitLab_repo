@@ -1,0 +1,15 @@
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/bin/Debug/net6.0/GitLab_ProjectsAPI
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/bin/Debug/net6.0/GitLab_ProjectsAPI.deps.json
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/bin/Debug/net6.0/GitLab_ProjectsAPI.runtimeconfig.json
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/bin/Debug/net6.0/GitLab_ProjectsAPI.dll
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/bin/Debug/net6.0/GitLab_ProjectsAPI.pdb
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.csproj.AssemblyReference.cache
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.AssemblyInfoInputs.cache
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.AssemblyInfo.cs
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.csproj.CoreCompileInputs.cache
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.dll
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/refint/GitLab_ProjectsAPI.dll
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.pdb
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/GitLab_ProjectsAPI.genruntimeconfig.cache
+/Users/dinofernando/Projects/GitLab_ProjectsAPI/GitLab_ProjectsAPI/obj/Debug/net6.0/ref/GitLab_ProjectsAPI.dll

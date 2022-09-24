@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{63703698-084A-44B5-ACB9-0DF5845A8F42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitLab_ProjectsAPI/Program.cs">
+    <Files>
+      <File FileName="GitLab_ProjectsAPI/Program.cs" Line="17" Column="90" />
+      <File FileName="GitLab_ProjectsAPI/project.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GitLab_ProjectsAPI" expanded="True">
+            <Node name="GitLab_ProjectsAPI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.GitLab__ProjectsAPI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
